@@ -14,7 +14,7 @@
 </head>
 <body>
 <div class="container pt-3">
-아이템 등록품
+아이템 등록품 +차재명 등록
 </div>
 </body>
 </html>
